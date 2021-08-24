@@ -1,6 +1,6 @@
 # Java-Lab-Programs
 
-## Lab Experimets
+## Lab Experiments
 
 ### Experiment - 2
 1. Write a program to accept three digits (i.e., 0 - 9) and print all its possible combinatins.
