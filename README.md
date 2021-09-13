@@ -7,4 +7,4 @@
 2. Write a program to find the sum of all integers greater than 60 and less than 200 that are divisible by8.
 
 ### Experiment - 3
-1. Write a program in Java to create a Player class. Inherit the classes Cricket _Player, Football _Player and Hockey_ Player from Player class. 
+1. Write a program in Java to create a Player class. Inherit the classes CricketPlayer, FootballPlayer and HockeyPlayer from Player class. 
